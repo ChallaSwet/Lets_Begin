@@ -1,1 +1,1 @@
-# Aotomatic tellar Machine
+# Automated tellar Machine
